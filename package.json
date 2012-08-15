@@ -11,27 +11,25 @@
   ],
   "jam": {
     "dependencies": {
-      "jquery": ">1.4.2",
+      "jquery": ">1.4.2"
     },
-    "main": "source/jquery.bxSlider.js",
+    "main": "source/jquery.bxSlider.js"
   },
   "maintainers": [
     {
       "name": "Kevin Rockwood",
       "email": "kevin@rockwood.me",
       "web": "http://www.rockwood.me" 
-    } 
-  ],
-  "contributors": [
+    },
     {
       "name": "Steven Wanderski",
       "web": "http://bxCreative.com" 
-    } 
+    }
   ],
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://www.opensource.org/licenses/mit-license.php",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
     }
   ],
   "repositories": [
