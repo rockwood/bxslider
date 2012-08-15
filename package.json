@@ -1,0 +1,44 @@
+{
+  "name": "jquery-bxSlider",
+  "version": "0.3.0",
+  "description": "jQuery custom content slider",
+  "homepage": "http://bxslider.com",
+  "keywords": [
+    "jquery",
+    "slider",
+    "carousel",
+    "gallery"
+  ],
+  "jam": {
+    "dependencies": {
+      "jquery": ">1.4.2",
+    },
+    "main": "source/jquery.bxSlider.js",
+  },
+  "maintainers": [
+    {
+      "name": "Kevin Rockwood",
+      "email": "kevin@rockwood.me",
+      "web": "http://www.rockwood.me" 
+    } 
+  ],
+  "contributors": [
+    {
+      "name": "Steven Wanderski",
+      "web": "http://bxCreative.com" 
+    } 
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php",
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git", 
+      "url": "https://github.com/wandoledzep/bxslider.git"
+    }
+  ],
+  "github": "https://github.com/rockwood/bxslider.git"
+}

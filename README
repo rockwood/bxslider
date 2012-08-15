@@ -1,3 +1,15 @@
+Jam-jquery-bxSlider
+
+Installation
+
+    jam install jquery-bxSlider
+
+Usage
+
+    define(['jquery', 'jquery-bxSlider'], function($) {
+      $('#slider1').bxSlider();
+    });
+
 jQuery bxSlider v3.0
 http://bxslider.com
 
