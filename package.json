@@ -9,6 +9,11 @@
     "carousel",
     "gallery"
   ],
+  "categories": [
+    "UI",
+    "DOM",
+    "Effects"
+  ],
   "jam": {
     "dependencies": {
       "jquery": ">1.4.2"
